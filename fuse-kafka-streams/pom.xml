@@ -17,7 +17,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <fuse.bom.version>7.5.0.fuse-750029-redhat-00002</fuse.bom.version>
-        <kafka.version>2.4.0</kafka.version>
+        <kafka.version>2.7.0.redhat-00002</kafka.version>
         <lombok.version>1.18.10</lombok.version>
 
         <!-- version of Arquillian -->
